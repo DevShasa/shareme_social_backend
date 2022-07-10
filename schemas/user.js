@@ -13,5 +13,10 @@ export default {
             title: 'User Image Url',
             type: 'string'
         },
+        {
+            name: 'email',
+            title: 'Email Address',
+            type: 'string'
+        }
     ],
 };
