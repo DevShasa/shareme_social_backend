@@ -9,7 +9,6 @@ export default {
         {name:'category', title:'Category', type:'assocCategory'},
         {name:'image', title:'Image', type:'image',options:{hotspot:true}},
         {name:'postedBy', title:'Posted By', type: 'postedBy'},
-        {name:'userId', title:'User Id', type:'string'},
         {name: 'save', title:'Save', type:'array', of:[{type:'save'}]},
         {name: 'comments', title:'Comments', type:'array', of:[{type:'comment'}]}
     ]

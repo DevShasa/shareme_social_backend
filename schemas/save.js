@@ -4,6 +4,5 @@ export default {
     type: 'document',
     fields: [
         {name:'postedBy', title:'Posted By', type: 'postedBy'},
-        {name:'userId', title:'User Id', type: 'string'}
     ]
 }
